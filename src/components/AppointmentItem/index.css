@@ -1,0 +1,32 @@
+.li-css {
+  width: 30%;
+  padding: 20px;
+  border: 2px solid #b5b7c4;
+  border-radius: 15px;
+  margin: 5px;
+}
+@media (max-width: 576px) {
+  .li-css {
+    width: 100%;
+    padding: 10px;
+  }
+}
+.appointmet-cointainer {
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: #ffffff;
+  border: 0px solid #ffffff;
+}
+h1 {
+  font-size: 14px;
+}
+.img {
+  height: 30px;
+  width: 30px;
+}
+.date{
+  color: #b5b7c4;
+}
